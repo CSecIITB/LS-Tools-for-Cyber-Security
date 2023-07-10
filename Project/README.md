@@ -14,4 +14,5 @@ Successfully doing this for the 10 random instances provided by the program will
 
 ### Submission instruction
 Create a file `script.py` which solves the challenge. The first line of this file should contain a comment with the flag you obtained.
+
 Add all files related to your project submission in a public GitHub repository or a publicly viewable Google Drive Folder. Submit the link to the GitHub repository or Google Drive Folder here: https://forms.gle/PvQ8gwJxhLVN9Zw47
