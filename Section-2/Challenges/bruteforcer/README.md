@@ -13,5 +13,4 @@ This is where you can use the information on whether the password you provide is
 ([lexicographically](https://en.wikipedia.org/wiki/Lexicographic_order)) than the correct password. This information can be used to perform
 a [binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) over the wordlist and quickly find the answer.
 
-## Submission instruction
-Create a file `script.py` which solves the challenge. The first line of this file should contain a comment with the flag you obtained.
+Flag format: flag{...}
