@@ -1,3 +1,5 @@
+# Bruteforcer
+
 You are given a program `bruteforcer` which can be run using the following commands while in this directory
 ```bash
 chmod +x bruteforcer #If the file is not marked as executable
