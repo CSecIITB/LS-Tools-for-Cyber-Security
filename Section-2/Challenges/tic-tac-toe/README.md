@@ -1,3 +1,5 @@
+# Tic-Tac-Toe
+
 Run the game as :
 ```bash
 chmod +x ttt #If the file is not marked as executable
