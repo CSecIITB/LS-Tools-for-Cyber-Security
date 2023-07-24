@@ -8,9 +8,4 @@ In each level you need to perform some tasks to get the flag
 
 PS: You may skip level3, since you will get to know more about it in the upcoming weeks.
 
-## Submission instruction
-In this repo inside the `challenge-3` directory we have already created `level1.txt level2.txt level3.txt` files.</br> 
-Write all the `commands` that you have used to solve for each challenge (one on each line)</br>
-Also while submission the first line of each text file should be the flag you obtained.
-
 Flag format: flag{...}
